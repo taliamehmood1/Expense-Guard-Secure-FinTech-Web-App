@@ -141,6 +141,5 @@ Exposure to real-world cybersecurity testing (manual testing focus)
 ✨ App stable, secure, and fully functional.
 
 
-📧 Email: talia.mehmood@example.com
- (replace with yours)
-💼 GitHub: github.com/yourusername
+📧 Email: taliamehmood4@gmail.com
+
